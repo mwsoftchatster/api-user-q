@@ -1,0 +1,9 @@
+version: '2.2'
+
+services:
+  user_q:
+    image: chatster/api-user-q
+    build: .
+    container_name: user_q
+    ports:
+      - 3100:3100
