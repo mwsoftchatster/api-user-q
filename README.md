@@ -1,5 +1,5 @@
 ## Chatster
-Chatster is an open source chat app.
+Chatster is an open source end-to-end encrypted chat app.
 
 ## api-user-q
 The back-end for Chatster is micro-services with CQRS. This is the query part of the micro-service 
